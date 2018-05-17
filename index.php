@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Final Exam</title>
+	<title>Product App</title>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<!-- Latest compiled and minified CSS -->
@@ -17,7 +17,7 @@
 <body>
 	<div class="container">
 		<div class="jumbotron" style="background-color: black; color: #fff;">
-			<h1>Final Exam</h1> 
+			<h1>Product App</h1> 
 			<p>Click the button below to install the database</p> 
 		</div>
 		<a href="install.php" class="btn btn-primary btn-lg">Install</a> 
